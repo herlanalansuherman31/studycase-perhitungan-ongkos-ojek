@@ -1,4 +1,4 @@
-# Study Case: Sistem Penghitung Ongkos Ojek Online (Jakarta)
+# 💫Study Case: Sistem Penghitung Ongkos Ojek Online (Jakarta)
 
 Implementasi dari study case praktikum OOP Java.
 
@@ -16,6 +16,10 @@ Program ini menghitung biaya perjalanan ojek online berdasarkan jarak tempuh.
 3. Jalankan Procedural: `java MainProcedural`
 
 ## Output
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-07 132510" src="https://github.com/user-attachments/assets/79b81a9c-6536-4397-bba7-e45f92f82f73" />
+
+
 ```
 === OJEK ONLINE JAKARTA ===
 Jarak     : 5.0 km
